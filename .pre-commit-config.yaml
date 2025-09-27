@@ -4,8 +4,6 @@ repos:
     hooks:
       - id: nbstripout
         args:
-          # Do NOT modify files
-          - --verify
           - >-
             --extra-keys=metadata.celltoolbar
             metadata.kernelspec
