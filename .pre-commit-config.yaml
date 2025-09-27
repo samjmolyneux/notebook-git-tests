@@ -20,5 +20,3 @@ repos:
             cell.metadata.code_folding
             cell.metadata.tags
             cell.metadata.init_cell
-
-          - --strip-init-cells
